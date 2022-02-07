@@ -7,6 +7,6 @@ This is the backend server of the BeInRange application.
 Go to the root directory of the project and run
 
 ```bash
-pip install
+npm install
 npm run dev
 ```
